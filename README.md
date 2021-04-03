@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jbsiemonsma
+- 👋 Hi, I’m @jbsiemonsma, working as a PM the industrial automation
 - 👀 I’m interested in python, arduino, C# and VBA (Visual studio community)
-- 🌱 I’m currently learning and learning and learning
-- 💞️ I’m looking to collaborate on industrial automation
+- 🌱 I’m currently learning, learning and learning
+- 💞️ I’m looking to collaborate on embedded systems based on arduino
 - 📫 jb.siemonsma@live.com or www.jbsiemonsma.nl
 
 <!---
